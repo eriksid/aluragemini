@@ -37,3 +37,4 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull req
 **Vamos juntos torcer pelo Brasil! 🇧🇷**
 
 **#olimpiadas #atletasbrasileiros #busca #javascript #html #css**
+![Print](assets/print.png)
