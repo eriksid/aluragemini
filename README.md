@@ -1,7 +1,7 @@
 ## **README.md - Buscador de Atletas Brasileiros**
 
 💻 Demo
-(Vercel)[https://aluragemini-chi.vercel.app/]
+[![Ver projeto no Vercel](https://vercel.com/button.svg)](https://aluragemini-chi.vercel.app)
 
 ### **Sobre a Aplicação**
 
